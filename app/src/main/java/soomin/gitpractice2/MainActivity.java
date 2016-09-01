@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
 
         //야호!
         //나는 수민이다.
+        //gngkgkgkgk
     }
 }
